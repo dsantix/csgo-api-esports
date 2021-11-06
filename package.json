@@ -1,5 +1,5 @@
 {
-  "name": "csgo-api",
+  "name": "csgo-api-esports",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
@@ -11,5 +11,17 @@
     "hltv-api": "^3.0.0"
   },
   "author": "dsanti",
-  "description": ""
+  "description": "csgo-api",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dsantix/csgo-api-esports.git"
+  },
+  "keywords": [
+    "csgo"
+  ],
+  "bugs": {
+    "url": "https://github.com/dsantix/csgo-api-esports/issues"
+  },
+  "homepage": "https://github.com/dsantix/csgo-api-esports#readme"
 }
