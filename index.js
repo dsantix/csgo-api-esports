@@ -6,6 +6,8 @@ const app = express()
 
 makeEndpoints(app, HLTV)
 
-app.listen(process.env.PORT || 5000, () => {
+const PORT = process.env.PORT
+
+app.listen(PORT || 5000, () => {
   console.log(`Listening csgo-api on port http://localhost:${PORT} ...`)
 })
