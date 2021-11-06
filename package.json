@@ -7,9 +7,9 @@
     "start": "node index.js"
   },
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "hltv-api": "^3.0.0"
   },
   "author": "dsanti",
-  "devDependencies": {},
   "description": ""
 }
