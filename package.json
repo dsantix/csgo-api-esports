@@ -1,5 +1,5 @@
 {
-  "name": "csgo-api-esports",
+  "name": "csgo-api-esportss",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
@@ -8,8 +8,7 @@
   },
   "dependencies": {
     "express": "^4.17.1",
-    "hltv-api": "^3.0.0",
-    "endpoints": "git+https://github.com/dsantix/endpoints_heroku.git"
+    "hltv-api": "^3.0.0"
   },
   "author": "dsanti",
   "description": "csgo-api",
