@@ -1,5 +1,5 @@
 const express = require('express')
-const HLTV = require('../node_modules/hltv-api/dist/index.js').default
+const HLTV = require('/node_modules/hltv-api/dist/index.js').default
 const makeEndpoints = require('endpoints.js')
 
 const app = express()
