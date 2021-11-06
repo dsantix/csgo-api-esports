@@ -9,7 +9,7 @@
   "dependencies": {
     "express": "^4.17.1",
     "hltv-api": "^3.0.0",
-	"endpoints.js": "git+https://github.com/dsantix/endpoints_heroku.git"
+	"endpoints": "git+https://github.com/dsantix/endpoints_heroku.git"
   },
   "author": "dsanti",
   "description": "csgo-api",
