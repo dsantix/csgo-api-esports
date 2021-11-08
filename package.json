@@ -7,13 +7,12 @@
     "start": "node index.js"
   },
   "dependencies": {
+    "@dsanti/endpoints": "^1.0.0",
     "express": "^4.17.1",
-    "hltv-api": "^3.0.0",
-    "endpoints": "file:endpoints"
+    "hltv-api": "^3.0.0"
   },
   "author": "dsanti",
   "description": "csgo-api",
-  "devDependencies": {},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/dsantix/csgo-api-esports.git"
