@@ -7,7 +7,6 @@
     "start": "node index.js"
   },
   "dependencies": {
-	  "endpoints": "file:../endpoints/endpoints.js",
     "express": "^4.17.1",
     "hltv-api": "^3.0.0"
   },
