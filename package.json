@@ -9,7 +9,7 @@
   "dependencies": {
     "express": "^4.17.1",
     "hltv-api": "^3.0.0",
-    "endpoints": "file:../endpoints"
+    "endpoints": "file:endpoints"
   },
   "author": "dsanti",
   "description": "csgo-api",
